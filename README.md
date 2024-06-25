@@ -1,5 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdalla. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-#### I'm frontend web developer ( React )
+ # HI , I'm Abdalla
+### I'm frontend web developer ( React )
+
 ![I'm frontend web developer ( React )](https://media.licdn.com/dms/image/D4D16AQHgrDTYGCYnGg/profile-displaybackgroundimage-shrink_350_1400/0/1709815530001?e=1724889600&v=beta&t=RTon37-rnQcH4LyDYetO7IhXQq6JjPC4_inVW_IxPpo)
 
 
