@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Arturs
 #### I'm frontend web developer ( React )
-![I'm frontend web developer ( React )](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRvYjBsNXRkMnBhdWtqMTF0N3NrM2Rhc3lya2E3OHd2MnoxbGEyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp)
+![I'm frontend web developer ( React )](https://media.licdn.com/dms/image/D4D16AQHgrDTYGCYnGg/profile-displaybackgroundimage-shrink_350_1400/0/1709815530001?e=1724889600&v=beta&t=RTon37-rnQcH4LyDYetO7IhXQq6JjPC4_inVW_IxPpo)
 
 
 I'm an inspirational individual who always strives for success and achievements in every aspect of my professional life. 😊 I have an unparalleled passion for learning and personal development, and I always seek to enhance my skills and knowledge in multiple fields. 📚 Thanks to my extensive experience in various domains, I possess an exceptional ability to analyze challenges and find creative solutions that set me on the path to success. 💪
