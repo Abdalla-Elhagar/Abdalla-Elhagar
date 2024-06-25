@@ -18,5 +18,10 @@ In short, I am an inspirational, enthusiastic, and multi-talented individual who
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abdalla-Elhagar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdalla-elhgar-92a270241/)  
+[<img src='https://static-00.iconduck.com/assets.00/github-icon-512x489-i96zunkj.png' alt='github' height='40'>](https://github.com/Abdalla-Elhagar)  [<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-b5owxava.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdalla-elhgar-92a270241/)  
 
+
+
+
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
