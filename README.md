@@ -1,7 +1,6 @@
  # HI , I'm Abdalla
 ### I'm frontend web developer ( React )
 
-![I'm frontend web developer ( React )](https://media.licdn.com/dms/image/D4D16AQHgrDTYGCYnGg/profile-displaybackgroundimage-shrink_350_1400/0/1709815530001?e=1724889600&v=beta&t=RTon37-rnQcH4LyDYetO7IhXQq6JjPC4_inVW_IxPpo)
 
 
 I'm an inspirational individual who always strives for success and achievements in every aspect of my professional life. 😊 I have an unparalleled passion for learning and personal development, and I always seek to enhance my skills and knowledge in multiple fields. 📚 Thanks to my extensive experience in various domains, I possess an exceptional ability to analyze challenges and find creative solutions that set me on the path to success. 💪
