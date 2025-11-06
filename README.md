@@ -1,26 +1,73 @@
- # HI , I'm Abdalla
-### I'm frontend web developer ( React )
+<h1 align="center">👋 Hi, I'm Abdalla Elhagar</h1>
 
+<p align="center">
+  🚀 <b>Full-Stack MERN Developer</b> | 💡 Passionate about clean UI & modern web apps  
+</p>
 
+---
 
-I'm an inspirational individual who always strives for success and achievements in every aspect of my professional life. 😊 I have an unparalleled passion for learning and personal development, and I always seek to enhance my skills and knowledge in multiple fields. 📚 Thanks to my extensive experience in various domains, I possess an exceptional ability to analyze challenges and find creative solutions that set me on the path to success. 💪
+## 🧠 About Me
 
-I excel at working under pressure and in dynamic work environments, where I can quickly adapt to changes and diverse requirements. 🧑‍💼 I take pride in building strong professional relationships with colleagues and clients, believing in the importance of collaboration and teamwork in achieving common goals. 🤝
+I'm a **Full-Stack JavaScript Developer** who loves turning ideas into fast, functional, and beautiful web applications.  
+I specialize in **React.js**, **Node.js**, **TypeScript**, and **MongoDB** — crafting both **frontend experiences** and **backend logic** that work seamlessly together.
 
-Challenges and new opportunities inspire me, and I am always ready to push my limits and achieve new milestones. 💼 Additionally, I enjoy sharing my knowledge and experiences with others, motivating them to succeed and grow personally. 🌟
+- 💼 Currently improving my skills in **React Query** and **Next.js**  
+- 💬 Ask me about **React**, **Redux**, **TypeScript**, or **Express**  
+- ⚙️ Focused on clean code, scalability, and user-centered design  
+- 🌍 Based in Egypt 🇪🇬  
+- 📫 Reach me at: **abdalla.elhagar@gmail.com**
 
-In short, I am an inspirational, enthusiastic, and multi-talented individual who always seeks to achieve excellence and leave a positive impact in everything I do. 🚀
+---
 
-# My Skills: 
-## <p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="[https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/NjCdXRL/pngegg.png" alt="bootstrap" width="40" height="40"/> </a> 
+## 🧩 Tech Stack
 
-- 🔭 I’m currently working on this page. 
+### 🖥️ Frontend
+React.js | TypeScript | Redux Toolkit | React Query | Tailwind CSS | Vite | Next.js
 
+### ⚙️ Backend
+Node.js | Express.js | MongoDB | Mongoose | JWT | bcrypt | dotenv | CORS
 
-[<img src='https://static-00.iconduck.com/assets.00/github-icon-512x489-i96zunkj.png' alt='github' height='40'>](https://github.com/Abdalla-Elhagar)  [<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-b5owxava.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdalla-elhgar-92a270241/)  
+### 🧰 Tools
+Git & GitHub | Postman | VS Code | Vercel | Figma | Jira
 
+---
 
+## 🚀 Featured Projects
 
+### 🛍️ [Exclusive E-Commerce Web App](https://exclusive-frontend-tau.vercel.app/)
+**Full-stack e-commerce application** where users can register, log in, browse products, and manage carts & favorites.  
+**Tech:** React.js, Redux, React Query, TypeScript, Tailwind, Node.js, Express, MongoDB  
+**Frontend Repo:** [Exclusive Frontend](https://github.com/Abdalla-Elhagar/Exclusive-Frontend)  
+**Backend Repo:** [Exclusive Backend](https://github.com/Abdalla-Elhagar/Exclusive-Backend)
 
+---
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+### 📚 [ReBook – Social Book Exchange](https://re-book-0.vercel.app/)
+A social web app that allows users to **share and exchange used books** with others easily.  
+**Tech:** React.js, Redux, Tailwind, TypeScript, Node.js, Express, MongoDB  
+**Frontend Repo:** [ReBook Frontend](https://github.com/Abdalla-Elhagar/ReBook)  
+**Backend Repo:** [ReBook Backend](https://github.com/Abdalla-Elhagar/rebook–backend)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdalla-Elhagar&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Elhagar&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Abdalla-Elhagar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdalla-elhagar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdalla.elhagar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ *“Code is like humor — when you have to explain it, it’s bad.”*  
+— *Cory House*
